@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "找零程式設計", "找零程式設計\找零程式設計.csproj", "{907D1A4A-25F0-4957-A82C-23F53B4AFCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907D1A4A-25F0-4957-A82C-23F53B4AFCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907D1A4A-25F0-4957-A82C-23F53B4AFCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907D1A4A-25F0-4957-A82C-23F53B4AFCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907D1A4A-25F0-4957-A82C-23F53B4AFCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2522C176-9ACB-4258-BC73-114387B3F5C7}
+	EndGlobalSection
+EndGlobal
